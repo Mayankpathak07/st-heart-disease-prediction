@@ -2,7 +2,7 @@
 numpy
 pandas
 statsmodels
-scikit-learn
+scikit-learn=1.2.2
 Pillow
 streamlit
 sklearn.metrics

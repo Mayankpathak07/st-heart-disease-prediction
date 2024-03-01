@@ -1,2 +1,3 @@
 # st-heart-disease-prediction
- scikit-learn 
+scikit-learn 
+numpy

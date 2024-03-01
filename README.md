@@ -1,3 +1,7 @@
 # st-heart-disease-prediction
-scikit-learn 
 numpy
+pandas
+statsmodels
+scikit-learn
+Pillow
+streamlit

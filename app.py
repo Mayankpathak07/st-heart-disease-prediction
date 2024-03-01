@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 import sklearn
-
+import sklearn.metrics
 model_filename = 'model.pkl'
 
 with open(model_filename, 'rb') as file:

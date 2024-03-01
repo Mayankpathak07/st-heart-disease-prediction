@@ -5,3 +5,4 @@ statsmodels
 scikit-learn
 Pillow
 streamlit
+sklearn.metrics
